@@ -1,0 +1,3289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-22">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="category" title="Category" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Art history" label="Art history">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-427.04996" y="110.634254"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="AS" label="AS">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.6"></viz:size>
+        <viz:position x="-450.1041" y="86.65172"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="RG" label="RG">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-125.876076" y="112.56836"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Comics and graphic novels" label="Comics and graphic novels">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-688.19836" y="89.00353"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="DK" label="DK">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="9.2"></viz:size>
+        <viz:position x="-470.20398" y="-40.658016"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="PSP" label="PSP">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.799999"></viz:size>
+        <viz:position x="-126.74775" y="160.59538"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Digital humanities" label="Digital humanities">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="-466.5785" y="62.366146"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="JCC" label="JCC">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-99.13353" y="183.9031"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="ZB" label="ZB">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="9.799999"></viz:size>
+        <viz:position x="-54.720093" y="165.392"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="RAS" label="RAS">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-175.46352" y="-143.24843"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Feminist media (e.g. zines)" label="Feminist media (e.g. zines)">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-394.06287" y="-146.29292"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="JAG" label="JAG">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.799999"></viz:size>
+        <viz:position x="-121.592026" y="-150.1009"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Film/TV/Video" label="Film/TV/Video">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="452.08673" y="11.982363"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="TB" label="TB">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="186.50844" y="112.54605"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="AB" label="AB">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="397.10098" y="34.955547"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="RR" label="RR">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="353.02182" y="-142.52063"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="MJH" label="MJH">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="-112.708275" y="-128.92197"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="DM" label="DM">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="13.4"></viz:size>
+        <viz:position x="151.32076" y="154.37993"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="NMM" label="NMM">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="77.51614" y="-36.953156"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="JA" label="JA">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="16.4"></viz:size>
+        <viz:position x="-200.88512" y="112.60038"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Literature" label="Literature">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-214.9377" y="266.85535"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="EB" label="EB">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="11.6"></viz:size>
+        <viz:position x="-170.22488" y="174.53783"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Modernism" label="Modernism">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="81.202545" y="646.0311"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="MEG" label="MEG">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="12.2"></viz:size>
+        <viz:position x="49.57663" y="442.06345"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Photography, history of" label="Photography, history of">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-138.0304" y="363.93863"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Rare books/book history" label="Rare books/book history">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-301.5769" y="-95.62218"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="RS" label="RS">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="16.4"></viz:size>
+        <viz:position x="-398.38562" y="-197.29442"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Video games" label="Video games">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="702.3217" y="-317.9229"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="SL" label="SL">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="522.9236" y="-209.05727"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Asian American issues " label="Asian American issues ">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-503.94888" y="413.6228"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="English history" label="English history">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="72.55774" y="112.08718"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="LC" label="LC">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="9.2"></viz:size>
+        <viz:position x="232.7628" y="112.26041"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Ethnography" label="Ethnography">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-592.53033" y="199.54042"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Fandom + transmedia/social media" label="Fandom + transmedia/social media">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-781.7237" y="37.74082"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Folklore/folklife/ethnography" label="Folklore/folklife/ethnography">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-826.78937" y="225.85187"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Genealogy" label="Genealogy">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-261.45523" y="-270.72083"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="LR" label="LR">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="7.3999996"></viz:size>
+        <viz:position x="-410.47592" y="-220.61516"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Government" label="Government">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-481.92056" y="-271.62576"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Jewish studies (Holocaust history, Jewish/Israeli history, Judaism, Jewish culture)" label="Jewish studies (Holocaust history, Jewish/Israeli history, Judaism, Jewish culture)">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="222.45567" y="85.57682"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Korean culture" label="Korean culture">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-537.732" y="-197.22876"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Latin American studies " label="Latin American studies ">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="91.86035" y="679.1263"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Los Angeles history" label="Los Angeles history">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="-163.23276" y="-38.908085"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="CMH" label="CMH">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="9.799999"></viz:size>
+        <viz:position x="-243.39574" y="-208.69261"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Maps" label="Maps">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-400.52274" y="-342.927"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Transportation history" label="Transportation history">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="75.35747" y="-189.00868"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Turkish history (late Ottoman and modern)" label="Turkish history (late Ottoman and modern)">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="13.258208" y="-484.556"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="JM" label="JM">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="9.799999"></viz:size>
+        <viz:position x="43.112843" y="-267.8223"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Cebuano" label="Cebuano">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-567.38605" y="169.20782"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Cyrillic (transliterations)" label="Cyrillic (transliterations)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="524.04877" y="512.43854"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="AH" label="AH">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="314.31357" y="449.7858"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Germanic languages (decoding titles)" label="Germanic languages (decoding titles)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="409.5496" y="568.1911"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Hebrew (Modern)" label="Hebrew (Modern)">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="669.36395" y="160.13484"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Indonesian (decoding titles)" label="Indonesian (decoding titles)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="511.8252" y="541.5975"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Korean (not spelling)" label="Korean (not spelling)">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-750.1481" y="-220.93945"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Mandarin (spoken)" label="Mandarin (spoken)">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-155.00682" y="455.2065"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Romance languages (decoding titles)" label="Romance languages (decoding titles)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="324.3534" y="622.1723"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Russian (written/spoken)" label="Russian (written/spoken)">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-951.94604" y="118.423416"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Sign language" label="Sign language">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="324.1948" y="-242.18974"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="South Asian (transliterations)" label="South Asian (transliterations)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="379.86307" y="595.50116"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Tagalog" label="Tagalog">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-462.60886" y="186.20131"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Taiwanese" label="Taiwanese">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="95.22586" y="364.6561"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="JC" label="JC">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="508.89035" y="301.01117"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Turkish" label="Turkish">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="71.444084" y="-460.46014"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Yiddish" label="Yiddish">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-147.40567" y="-375.37476"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Biology" label="Biology">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-588.7907" y="-321.00668"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Citizen Science" label="Citizen Science">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="464.67386" y="154.26389"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Active learning" label="Active learning">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="97.118195" y="-92.895294"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Active questioning for instruction" label="Active questioning for instruction">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="275.04837" y="310.24548"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="AR" label="AR">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="-56.903122" y="266.63208"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Assessment" label="Assessment">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="510.94434" y="265.00305"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Constructivist pedagogy" label="Constructivist pedagogy">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-224.08426" y="-316.49713"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Course design" label="Course design">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-110.65059" y="329.4403"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Critical pedagogy" label="Critical pedagogy">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-344.7777" y="-66.42802"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Developing teaching materials" label="Developing teaching materials">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="278.24307" y="426.3098"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Group learning/assignments" label="Group learning/assignments">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-309.3588" y="213.50954"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Pedagogical training" label="Pedagogical training">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="321.8264" y="-93.21493"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="KD" label="KD">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="7.3999996"></viz:size>
+        <viz:position x="332.18356" y="-172.88223"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Peer learning--training, programs, working w/faculty" label="Peer learning--training, programs, working w/faculty">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="703.2442" y="-39.925446"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="DS" label="DS">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="181.06148" y="-37.4719"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Undergraduate library behaviors" label="Undergraduate library behaviors">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="203.78447" y="-119.49558"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Avoiding plagiarism" label="Avoiding plagiarism">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="724.7193" y="-275.05115"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Citations (MLA style citations, Science citations)" label="Citations (MLA style citations, Science citations)">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-114.503944" y="-243.99619"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="SS" label="SS">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="11.6"></viz:size>
+        <viz:position x="-126.92432" y="-548.12115"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Database searching (English lit, history, digital resources)" label="Database searching (English lit, history, digital resources)">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-293.46704" y="241.41937"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Distilling scientific articles without reading entire article" label="Distilling scientific articles without reading entire article">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="767.4165" y="58.340908"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Film and TV research" label="Film and TV research">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-624.94995" y="112.96906"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Historical research" label="Historical research">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="531.15564" y="33.607147"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Primary source research (including online)" label="Primary source research (including online)">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="7.3999996"></viz:size>
+        <viz:position x="-323.19257" y="294.78534"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="GG" label="GG">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-287.95004" y="486.2542"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Qualitative research methodologies (Oral history, ethnographic, focus groups, interviews...)" label="Qualitative research methodologies (Oral history, ethnographic, focus groups, interviews...)">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="8.6"></viz:size>
+        <viz:position x="540.4376" y="213.97916"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Quantitative research methodologies (surveys...)" label="Quantitative research methodologies (surveys...)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="852.70154" y="240.97108"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Research planning and process" label="Research planning and process">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="24.99501" y="508.7323"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Special collections/archives research training" label="Special collections/archives research training">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="88.21021" y="31.447296"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Using Wikipedia to start research" label="Using Wikipedia to start research">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="7.3999996"></viz:size>
+        <viz:position x="-270.04315" y="-173.71426"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Systematic reviews" label="Systematic reviews">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="879.03784" y="-67.3439"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="BM" label="BM">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="654.1756" y="12.97294"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Scrivener" label="Scrivener">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="533.66" y="133.23602"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Zotero" label="Zotero">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="8.6"></viz:size>
+        <viz:position x="456.74588" y="-119.58713"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="JTC" label="JTC">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="7.3999996"></viz:size>
+        <viz:position x="245.93448" y="-173.18636"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="LibGuides" label="LibGuides">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-514.5504" y="-121.19955"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Customer service" label="Customer service">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-305.72775" y="162.45882"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Event planning (includes wkshps and institutes)" label="Event planning (includes wkshps and institutes)">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.6"></viz:size>
+        <viz:position x="103.146255" y="-12.535649"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Fundraising" label="Fundraising">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-59.393" y="655.38617"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Implementing organizational change" label="Implementing organizational change">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="595.09515" y="452.39743"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Key Performance Indicators" label="Key Performance Indicators">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-161.15466" y="-670.24493"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Needs assessment" label="Needs assessment">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="126.13549" y="-747.30786"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Non-profit organization experience" label="Non-profit organization experience">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-649.10065" y="9.92087"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Outreach" label="Outreach">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-75.712524" y="205.10712"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Project planning and management" label="Project planning and management">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="9.2"></viz:size>
+        <viz:position x="124.447525" y="-146.84679"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="JW" label="JW">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="8.6"></viz:size>
+        <viz:position x="260.74976" y="-402.44287"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Public speaking" label="Public speaking">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-391.70743" y="36.605946"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Relationship building/creating campus partners" label="Relationship building/creating campus partners">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="269.05527" y="337.2883"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Space planning" label="Space planning">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="272.87152" y="136.8758"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="JG" label="JG">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="7.3999996"></viz:size>
+        <viz:position x="51.65685" y="286.57434"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Student training" label="Student training">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="9.2"></viz:size>
+        <viz:position x="-289.4734" y="9.189834"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Team building" label="Team building">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-355.1699" y="390.3202"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Tours" label="Tours">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="-1.4340903" y="303.60947"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Access policies" label="Access policies">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-712.3022" y="145.42126"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Altmetrics" label="Altmetrics">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="299.30493" y="502.6175"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Archival arrangement/description" label="Archival arrangement/description">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="205.12607" y="391.0612"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Cataloging/metadata best practices" label="Cataloging/metadata best practices">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-411.09003" y="-369.40555"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Ontologies/controlled vocabularies" label="Ontologies/controlled vocabularies">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-345.2556" y="-420.7157"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Copyright" label="Copyright">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="279.8597" y="530.7274"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Creative Commons licensing" label="Creative Commons licensing">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="362.81894" y="478.5916"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="NIH Public Access Policy" label="NIH Public Access Policy">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="1007.8425" y="31.34102"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Open access" label="Open access">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="738.1527" y="187.17697"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Digital reference" label="Digital reference">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="284.41663" y="-65.28134"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Exhibitions" label="Exhibitions">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="-268.34818" y="319.22067"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Interlibrary loan" label="Interlibrary loan">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-622.9404" y="436.9659"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Loans of special collections materials" label="Loans of special collections materials">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-440.10104" y="637.1986"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="MarcEdit" label="MarcEdit">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-511.28973" y="-344.65005"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Oral history program planning" label="Oral history program planning">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="512.5618" y="364.26306"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Paleography &amp; descriptive bibliography" label="Paleography &amp; descriptive bibliography">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-608.95135" y="323.1398"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Pubmed" label="Pubmed">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="496.3919" y="-141.01411"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Reference desk and reference desk training" label="Reference desk and reference desk training">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="9.2"></viz:size>
+        <viz:position x="235.93231" y="178.08829"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Stacks maintenance and collection management" label="Stacks maintenance and collection management">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-317.86472" y="136.74799"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Surveys" label="Surveys">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="419.90042" y="118.10592"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Voyager circ client" label="Voyager circ client">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="9.2"></viz:size>
+        <viz:position x="-611.8952" y="-43.393272"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Course management systems: CCLE" label="Course management systems: CCLE">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="200.05061" y="-436.35486"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Confluence/JIRA" label="Confluence/JIRA">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="374.87674" y="-577.16595"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Systems setup and utilization" label="Systems setup and utilization">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="402.67993" y="-553.3393"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Topic mapping" label="Topic mapping">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-150.97314" y="390.45966"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Keynote" label="Keynote">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="327.54642" y="-600.6239"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Camtasia" label="Camtasia">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-484.34738" y="-313.85815"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Snagit" label="Snagit">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-588.6171" y="-247.61061"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Audio editing" label="Audio editing">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="395.3574" y="-198.10512"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Video creation (GarageBand)" label="Video creation (GarageBand)">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-318.201" y="-798.5638"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Video editing/script writing" label="Video editing/script writing">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="261.12695" y="-295.39102"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Adobe Photoshop" label="Adobe Photoshop">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="469.53342" y="-387.44965"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Data management planning" label="Data management planning">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="840.6148" y="-1.4853756"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Data visualization" label="Data visualization">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-241.07889" y="-447.35007"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Locating data sources for analysis" label="Locating data sources for analysis">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-180.63335" y="-771.1984"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Linked data" label="Linked data">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-398.98465" y="-292.62173"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Digital preservation" label="Digital preservation">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="2524.1836" y="-629.8331"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="SP" label="SP">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="2544.0002" y="-545.6154"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Personal digital archiving" label="Personal digital archiving">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="2490.8164" y="-577.2698"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Digital forensics" label="Digital forensics">
+        <attvalues>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="2547.2454" y="-475.80664"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="Website creation and maintenance" label="Website creation and maintenance">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-170.64098" y="-396.30313"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Usage statistics: Google Analytics" label="Usage statistics: Google Analytics">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-368.98065" y="-696.775"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Search engine optimization" label="Search engine optimization">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-86.36552" y="-723.46185"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Usability studies" label="Usability studies">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-75.8529" y="-825.0939"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="Social media" label="Social media">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="-218.33699" y="-120.1091"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Second Life" label="Second Life">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-589.48944" y="-170.52292"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="Video-conferencing (GTM �?? go-to-meeting?)" label="Video-conferencing (GTM �?? go-to-meeting?)">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="214.81027" y="-325.4088"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Text-encoding" label="Text-encoding">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-687.451" y="296.26663"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Oxygen" label="Oxygen">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-605.6158" y="-294.265"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="ORCID" label="ORCID">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="89.30307" y="-412.2893"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Academic writing, publishing" label="Academic writing, publishing">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="242.57332" y="258.5335"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Editing, proofreading" label="Editing, proofreading">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.4"></viz:size>
+        <viz:position x="-164.30272" y="58.738247"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Connecting with a diverse audience" label="Connecting with a diverse audience">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-128.11377" y="417.85156"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Community outreach, advocacy" label="Community outreach, advocacy">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-31.969604" y="482.3385"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Diversity inititatives and scholarships in LIS" label="Diversity inititatives and scholarships in LIS">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="-787.5593" y="268.26376"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Equity, inclusion, social justice" label="Equity, inclusion, social justice">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="-476.40915" y="-17.032703"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Section 508 Accessibility" label="Section 508 Accessibility">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="567.9165" y="-233.33496"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Arts and crafts" label="Arts and crafts">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.8"></viz:size>
+        <viz:position x="-543.95233" y="-76.47239"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Ballet" label="Ballet">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="432.3332" y="286.09796"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Cooking/Baking" label="Cooking/Baking">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="297.4969" y="58.276524"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Crocheting" label="Crocheting">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="573.14844" y="187.07733"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+      <node id="Feminist spirituality" label="Feminist spirituality">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-0.55604637" y="-351.76273"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Handlettering and brushlettering" label="Handlettering and brushlettering">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-479.04907" y="462.8798"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="Photography" label="Photography">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="5.6"></viz:size>
+        <viz:position x="227.22673" y="-215.11604"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="Poetry/storytelling" label="Poetry/storytelling">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-71.5474" y="-65.78374"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Teaching a dog to roll over" label="Teaching a dog to roll over">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="568.40454" y="-67.47185"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+      <node id="Voice acting" label="Voice acting">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="433.74255" y="-268.38147"></viz:position>
+        <viz:color r="223" g="137" b="255"></viz:color>
+      </node>
+      <node id="Writing" label="Writing">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="6.2"></viz:size>
+        <viz:position x="-41.616226" y="-105.68749"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="Journalism" label="Journalism">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-425.78152" y="347.09326"></viz:position>
+        <viz:color r="0" g="196" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Art history" target="AS">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="Art history" target="RG">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="Comics and graphic novels" target="DK">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="Comics and graphic novels" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="Digital humanities" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="Digital humanities" target="ZB">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="Digital humanities" target="RAS">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="Digital humanities" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="Feminist media (e.g. zines)" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="Feminist media (e.g. zines)" target="DK">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="Film/TV/Video" target="TB">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="Film/TV/Video" target="AB">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="Film/TV/Video" target="RR">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="Film/TV/Video" target="RG">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="Film/TV/Video" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="Film/TV/Video" target="MJH">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="Film/TV/Video" target="DM">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="Film/TV/Video" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="Film/TV/Video" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="Film/TV/Video" target="JA">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="Literature" target="EB">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="Literature" target="RG">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="Modernism" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="Photography, history of" target="RG">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="Photography, history of" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="Rare books/book history" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="Rare books/book history" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="Rare books/book history" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="Video games" target="SL">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="Asian American issues " target="JCC">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="English history" target="LC">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="English history" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="English history" target="EB">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="English history" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="Ethnography" target="JA">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="Fandom + transmedia/social media" target="JA">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="Fandom + transmedia/social media" target="DK">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="Folklore/folklife/ethnography" target="JA">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="Genealogy" target="LR">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="Genealogy" target="MJH">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="Government" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="Jewish studies (Holocaust history, Jewish/Israeli history, Judaism, Jewish culture)" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="Jewish studies (Holocaust history, Jewish/Israeli history, Judaism, Jewish culture)" target="DM">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="Jewish studies (Holocaust history, Jewish/Israeli history, Judaism, Jewish culture)" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="Korean culture" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="Latin American studies " target="MEG">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="Los Angeles history" target="TB">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="Los Angeles history" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="Los Angeles history" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="Los Angeles history" target="CMH">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="Maps" target="LR">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="Maps" target="CMH">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="Transportation history" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="Turkish history (late Ottoman and modern)" target="JM">
+        <attvalues>
+          <attvalue for="category" value="Arts, Humanities, &amp; Social Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="Cebuano" target="JA">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="Cyrillic (transliterations)" target="AH">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="Germanic languages (decoding titles)" target="AH">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="Hebrew (Modern)" target="DM">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="Indonesian (decoding titles)" target="AH">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="Korean (not spelling)" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="Mandarin (spoken)" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="Romance languages (decoding titles)" target="AH">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="Russian (written/spoken)" target="AS">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="Sign language" target="RR">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="South Asian (transliterations)" target="AH">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="Tagalog" target="JA">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="Taiwanese" target="JC">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="Taiwanese" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="Turkish" target="JM">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="Yiddish" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="Languages"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="Biology" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="Citizen Science" target="LC">
+        <attvalues>
+          <attvalue for="category" value="Sciences"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="Active learning" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="Active learning" target="RG">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="Active questioning for instruction" target="AR">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="Active questioning for instruction" target="LC">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="Assessment" target="DM">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="Constructivist pedagogy" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="Course design" target="RG">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="Course design" target="ZB">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="Course design" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="Critical pedagogy" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="Critical pedagogy" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="Developing teaching materials" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="Developing teaching materials" target="DM">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="Group learning/assignments" target="ZB">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="Group learning/assignments" target="RG">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="Pedagogical training" target="RG">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="Pedagogical training" target="KD">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="Peer learning--training, programs, working w/faculty" target="RG">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="Peer learning--training, programs, working w/faculty" target="DS">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="Undergraduate library behaviors" target="DM">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="Undergraduate library behaviors" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="Undergraduate library behaviors" target="JM">
+        <attvalues>
+          <attvalue for="category" value="PEDOGOGICAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="Avoiding plagiarism" target="SL">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="Citations (MLA style citations, Science citations)" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="Citations (MLA style citations, Science citations)" target="DK">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="97" source="Citations (MLA style citations, Science citations)" target="SS">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="98" source="Database searching (English lit, history, digital resources)" target="AH">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="99" source="Database searching (English lit, history, digital resources)" target="RG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="Database searching (English lit, history, digital resources)" target="EB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="Database searching (English lit, history, digital resources)" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="Database searching (English lit, history, digital resources)" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="Database searching (English lit, history, digital resources)" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="Distilling scientific articles without reading entire article" target="DS">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="Distilling scientific articles without reading entire article" target="DM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="Film and TV research" target="EB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="Film and TV research" target="DK">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="Film and TV research" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="Historical research" target="TB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="Historical research" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="Primary source research (including online)" target="DK">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="Primary source research (including online)" target="JCC" weight="2.0">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="Primary source research (including online)" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="Primary source research (including online)" target="RG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="Primary source research (including online)" target="GG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="Qualitative research methodologies (Oral history, ethnographic, focus groups, interviews...)" target="AB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="Qualitative research methodologies (Oral history, ethnographic, focus groups, interviews...)" target="DM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="Qualitative research methodologies (Oral history, ethnographic, focus groups, interviews...)" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="Qualitative research methodologies (Oral history, ethnographic, focus groups, interviews...)" target="AH">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="Qualitative research methodologies (Oral history, ethnographic, focus groups, interviews...)" target="TB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="Qualitative research methodologies (Oral history, ethnographic, focus groups, interviews...)" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="123" source="Qualitative research methodologies (Oral history, ethnographic, focus groups, interviews...)" target="JA">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="Quantitative research methodologies (surveys...)" target="DM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="Quantitative research methodologies (surveys...)" target="AB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="Quantitative research methodologies (surveys...)" target="ZB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="Quantitative research methodologies (surveys...)" target="AH">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="128" source="Research planning and process" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="129" source="Research planning and process" target="AR">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="130" source="Special collections/archives research training" target="TB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="131" source="Special collections/archives research training" target="AB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="132" source="Special collections/archives research training" target="RR">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="133" source="Special collections/archives research training" target="RG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="134" source="Special collections/archives research training" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="135" source="Special collections/archives research training" target="MJH">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="136" source="Special collections/archives research training" target="DM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="137" source="Special collections/archives research training" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="138" source="Special collections/archives research training" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="139" source="Special collections/archives research training" target="JA">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="140" source="Using Wikipedia to start research" target="DS">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="141" source="Using Wikipedia to start research" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="142" source="Using Wikipedia to start research" target="RAS">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="143" source="Using Wikipedia to start research" target="SS">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="144" source="Using Wikipedia to start research" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="145" source="Systematic reviews" target="BM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="146" source="Scrivener" target="TB">
+        <attvalues>
+          <attvalue for="category" value="Tools"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="147" source="Zotero" target="TB">
+        <attvalues>
+          <attvalue for="category" value="Tools"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="148" source="Zotero" target="AB">
+        <attvalues>
+          <attvalue for="category" value="Tools"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="149" source="Zotero" target="RR">
+        <attvalues>
+          <attvalue for="category" value="Tools"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="150" source="Zotero" target="DS">
+        <attvalues>
+          <attvalue for="category" value="Tools"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="151" source="Zotero" target="BM">
+        <attvalues>
+          <attvalue for="category" value="Tools"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="152" source="Zotero" target="SL">
+        <attvalues>
+          <attvalue for="category" value="Tools"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="153" source="Zotero" target="JTC">
+        <attvalues>
+          <attvalue for="category" value="Tools"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="154" source="LibGuides" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Tools"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="155" source="LibGuides" target="DK">
+        <attvalues>
+          <attvalue for="category" value="Tools"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="156" source="Customer service" target="AS">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="157" source="Customer service" target="EB">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="158" source="Customer service" target="RG">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="159" source="Event planning (includes wkshps and institutes)" target="JA">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="160" source="Event planning (includes wkshps and institutes)" target="LC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="161" source="Event planning (includes wkshps and institutes)" target="ZB">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="162" source="Event planning (includes wkshps and institutes)" target="RG">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="163" source="Event planning (includes wkshps and institutes)" target="RS">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="164" source="Event planning (includes wkshps and institutes)" target="RR">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="165" source="Event planning (includes wkshps and institutes)" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="166" source="Fundraising" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="167" source="Implementing organizational change" target="JC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="168" source="Key Performance Indicators" target="SS">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="169" source="Needs assessment" target="SS">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="170" source="Non-profit organization experience" target="RS">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="171" source="Non-profit organization experience" target="JA">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="172" source="Non-profit organization experience" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="173" source="Outreach" target="JC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="174" source="Outreach" target="AR">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="175" source="Outreach" target="RG">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="176" source="Outreach" target="LC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="177" source="Outreach" target="DM">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="178" source="Outreach" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="179" source="Project planning and management" target="CMH">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="180" source="Project planning and management" target="ZB">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="181" source="Project planning and management" target="RG">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="182" source="Project planning and management" target="RS">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="183" source="Project planning and management" target="AB">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="184" source="Project planning and management" target="JM">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="185" source="Project planning and management" target="JW">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="186" source="Project planning and management" target="JTC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="187" source="Public speaking" target="RG">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="188" source="Public speaking" target="AR">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="189" source="Public speaking" target="JA">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="190" source="Public speaking" target="CMH">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="191" source="Public speaking" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="192" source="Public speaking" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="193" source="Relationship building/creating campus partners" target="JC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="194" source="Relationship building/creating campus partners" target="AR">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="195" source="Relationship building/creating campus partners" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="196" source="Space planning" target="JG">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="197" source="Space planning" target="JC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="198" source="Space planning" target="RG">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="199" source="Space planning" target="JTC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="200" source="Student training" target="EB">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="201" source="Student training" target="AS">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="202" source="Student training" target="LC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="203" source="Student training" target="RS">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="204" source="Student training" target="AR">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="205" source="Student training" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="206" source="Student training" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="207" source="Student training" target="JM">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="208" source="Team building" target="ZB">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="209" source="Tours" target="AR">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="210" source="Tours" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="211" source="Tours" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="212" source="Tours" target="JG">
+        <attvalues>
+          <attvalue for="category" value="ORGANIZATIONAL SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="213" source="Access policies" target="AS">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="214" source="Altmetrics" target="JC">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="215" source="Archival arrangement/description" target="JG">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="216" source="Archival arrangement/description" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="217" source="Cataloging/metadata best practices" target="LR">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="218" source="Cataloging/metadata best practices" target="CMH">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="219" source="Ontologies/controlled vocabularies" target="CMH">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="220" source="Copyright" target="JC">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="221" source="Creative Commons licensing" target="JC">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="222" source="NIH Public Access Policy" target="BM">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="223" source="Open access" target="JC">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="224" source="Open access" target="BM">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="225" source="Digital reference" target="LC">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="226" source="Digital reference" target="AB">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="227" source="Digital reference" target="SL">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="228" source="Exhibitions" target="GG">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="229" source="Exhibitions" target="JA">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="230" source="Exhibitions" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="231" source="Exhibitions" target="RG">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="232" source="Interlibrary loan" target="EB">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="233" source="Loans of special collections materials" target="GG">
+        <attvalues>
+          <attvalue for="category" value="LIBRARY PROCESSES/TOOLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="234" source="MarcEdit" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Technology Skills"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="235" source="Oral history program planning" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="Technology Skills"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="236" source="Oral history program planning" target="TB">
+        <attvalues>
+          <attvalue for="category" value="Technology Skills"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="237" source="Paleography &amp; descriptive bibliography" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="Technology Skills"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="238" source="Pubmed" target="BM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="239" source="Pubmed" target="KD">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="240" source="Pubmed" target="JTC">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="241" source="Reference desk and reference desk training" target="LC">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="242" source="Reference desk and reference desk training" target="AH">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="243" source="Reference desk and reference desk training" target="JG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="244" source="Reference desk and reference desk training" target="AB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="245" source="Reference desk and reference desk training" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="246" source="Reference desk and reference desk training" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="247" source="Reference desk and reference desk training" target="RG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="248" source="Reference desk and reference desk training" target="DS">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="249" source="Stacks maintenance and collection management" target="EB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="250" source="Stacks maintenance and collection management" target="AS">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="251" source="Stacks maintenance and collection management" target="RG">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="252" source="Surveys" target="AB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="253" source="Surveys" target="DM">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="254" source="Voyager circ client" target="EB">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="255" source="Voyager circ client" target="AS">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="256" source="Voyager circ client" target="CMH">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="257" source="Voyager circ client" target="LR">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="258" source="Voyager circ client" target="RS">
+        <attvalues>
+          <attvalue for="category" value="RESEARCH SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="259" source="Voyager circ client" target="JA">
+        <attvalues>
+          <attvalue for="category" value="Grant writing "></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="260" source="Voyager circ client" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="Grant writing "></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="261" source="Voyager circ client" target="ZB">
+        <attvalues>
+          <attvalue for="category" value="Grant writing "></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="262" source="Course management systems: CCLE" target="JM">
+        <attvalues>
+          <attvalue for="category" value="Instructional technology"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="263" source="Course management systems: CCLE" target="JW">
+        <attvalues>
+          <attvalue for="category" value="Instructional technology"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="264" source="Confluence/JIRA" target="JW">
+        <attvalues>
+          <attvalue for="category" value="Technical�documentation"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="265" source="Systems setup and utilization" target="JW">
+        <attvalues>
+          <attvalue for="category" value="Audio and visual communication"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="266" source="Topic mapping" target="AR">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="267" source="Topic mapping" target="ZB">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="268" source="Keynote" target="JW">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="269" source="Camtasia" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="270" source="Snagit" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="271" source="Audio editing" target="RR">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="272" source="Audio editing" target="SL">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="273" source="Video creation (GarageBand)" target="SS">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="274" source="Video editing/script writing" target="RR">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="275" source="Adobe Photoshop" target="SL">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="276" source="Adobe Photoshop" target="JW">
+        <attvalues>
+          <attvalue for="category" value="Media Authoring"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="277" source="Data management planning" target="BM">
+        <attvalues>
+          <attvalue for="category" value="Data"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="278" source="Data visualization" target="SS">
+        <attvalues>
+          <attvalue for="category" value="Data"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="279" source="Data visualization" target="CMH">
+        <attvalues>
+          <attvalue for="category" value="Data"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="280" source="Locating data sources for analysis" target="SS">
+        <attvalues>
+          <attvalue for="category" value="Data"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="281" source="Linked data" target="LR">
+        <attvalues>
+          <attvalue for="category" value="Data"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="282" source="Linked data" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Data"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="283" source="Linked data" target="CMH">
+        <attvalues>
+          <attvalue for="category" value="Data"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="284" source="Digital preservation" target="SP">
+        <attvalues>
+          <attvalue for="category" value="Archive"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="285" source="Personal digital archiving" target="SP">
+        <attvalues>
+          <attvalue for="category" value="Archive"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="286" source="Digital forensics" target="SP">
+        <attvalues>
+          <attvalue for="category" value="Archive"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="287" source="Website creation and maintenance" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="288" source="Website creation and maintenance" target="SS">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="289" source="Website creation and maintenance" target="JM">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="290" source="Usage statistics: Google Analytics" target="SS">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="291" source="Search engine optimization" target="SS">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="292" source="Usability studies" target="SS">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="293" source="Social media" target="RR">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="294" source="Social media" target="JA">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="295" source="Social media" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="296" source="Social media" target="RG">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="297" source="Second Life" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="298" source="Video-conferencing (GTM �?? go-to-meeting?)" target="KD">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="299" source="Video-conferencing (GTM �?? go-to-meeting?)" target="JM">
+        <attvalues>
+          <attvalue for="category" value="Online presence"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="300" source="Text-encoding" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="Digital editions"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="301" source="Oxygen" target="RS">
+        <attvalues>
+          <attvalue for="category" value="Digital editions"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="302" source="ORCID" target="SS">
+        <attvalues>
+          <attvalue for="category" value="Identity management"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="303" source="ORCID" target="JTC">
+        <attvalues>
+          <attvalue for="category" value="Identity management"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="304" source="Academic writing, publishing" target="EB">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="305" source="Academic writing, publishing" target="TB">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="306" source="Academic writing, publishing" target="JC">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="307" source="Academic writing, publishing" target="JA">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="308" source="Academic writing, publishing" target="DM">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="309" source="Academic writing, publishing" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="310" source="Editing, proofreading" target="TB">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="311" source="Editing, proofreading" target="AB">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="312" source="Editing, proofreading" target="RR">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="313" source="Editing, proofreading" target="RG">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="314" source="Editing, proofreading" target="PSP">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="315" source="Editing, proofreading" target="MJH">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="316" source="Editing, proofreading" target="DM">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="317" source="Editing, proofreading" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="318" source="Editing, proofreading" target="JG">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="319" source="Editing, proofreading" target="JA">
+        <attvalues>
+          <attvalue for="category" value="ACADEMIC RESEARCH, WRITING, AND PRESENTATION SKILLS"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="320" source="Connecting with a diverse audience" target="AR">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="321" source="Connecting with a diverse audience" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="322" source="Community outreach, advocacy" target="MEG">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="323" source="Community outreach, advocacy" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="324" source="Diversity inititatives and scholarships in LIS" target="JA">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="325" source="Diversity inititatives and scholarships in LIS" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="326" source="Equity, inclusion, social justice" target="DK">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="327" source="Equity, inclusion, social justice" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="328" source="Equity, inclusion, social justice" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="329" source="Equity, inclusion, social justice" target="JA">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="330" source="Section 508 Accessibility" target="KD">
+        <attvalues>
+          <attvalue for="category" value="DIVERSITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="331" source="Arts and crafts" target="JA">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="332" source="Arts and crafts" target="RS">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="333" source="Arts and crafts" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="334" source="Arts and crafts" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="335" source="Ballet" target="DM">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="336" source="Cooking/Baking" target="EB">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="337" source="Cooking/Baking" target="JA" weight="2.0">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="338" source="Cooking/Baking" target="JM">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="339" source="Cooking/Baking" target="AR">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="340" source="Cooking/Baking" target="JC">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="341" source="Cooking/Baking" target="KD">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="343" source="Crocheting" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="344" source="Crocheting" target="AH">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="345" source="Feminist spirituality" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="346" source="Handlettering and brushlettering" target="JCC">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="347" source="Photography" target="JW">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="348" source="Photography" target="RG">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="349" source="Poetry/storytelling" target="RG">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="350" source="Poetry/storytelling" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="351" source="Poetry/storytelling" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="352" source="Teaching a dog to roll over" target="DS">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="353" source="Voice acting" target="RR">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="354" source="Writing" target="JAG">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="355" source="Writing" target="RG">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="356" source="Writing" target="NMM">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="357" source="Journalism" target="EB">
+        <attvalues>
+          <attvalue for="category" value="SOCIAL SUSTAINABILITY"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
